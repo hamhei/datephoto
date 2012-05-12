@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body {
+	background:#F4F0E4;
+	background-image: url(bg.png);
+	background-repeat:repeat-x;
+	margin:auto 0;
+	text-align:center;
+	
+}
